@@ -1,0 +1,13 @@
+{
+  "name": "ludo-mvp-v4",
+  "version": "1.0.0",
+  "description": "Realtime Ludo MVP with matchmaking, timers, chat, and shop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
