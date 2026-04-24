@@ -1,0 +1,17 @@
+{
+  "name": "ludo-club-v5",
+  "version": "5.0.0",
+  "description": "Ludo Club clone - full ruleset, coins, tables, AI, clubs, cosmetics, power-ups. Built as drop-in module for AfriBConnect.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.8.3"
+  },
+  "author": "JB",
+  "license": "UNLICENSED"
+}
